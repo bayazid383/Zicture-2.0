@@ -1,0 +1,2 @@
+/*An array containing all the country names in the world:*/
+var products = ["HTML","CSS","Bootstrap","Tailwind","Java Script","Node js","Vue js","React js","Next js","Json","jQuery","Angular js","Ajax","AppML","Python","SQL","MySQL","Java","C","C++","C#","PHP","R","Kotlin","Go","Django","TypeScript","Git And GitHub","MongoDB","AWS Cloud","XML","AI","Home","For Buyer","For Supplier","Get Apps","Contact","Sign Up","Sign In","Forget Password","Categories","Chats","Marketplace","Requests","Archive","Manufacturing & Machinery","Agriculturel Machinery"];
